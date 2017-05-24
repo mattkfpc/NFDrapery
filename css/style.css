@@ -209,7 +209,7 @@ overflow:visible;
 	}
 	header.smaller:not(.header-bottom):not(.side-header){
 	height: 70px;
-	background:#ffffff;
+	background:#18191b;
 	border-bottom:solid 1px #333;
 	}
 	header.smaller:not(.header-bottom):not(.side-header) div#logo {
@@ -778,7 +778,7 @@ footer {
 	.de-navbar-left.de_light header, .de-navbar-left.de_light{background:#f9f9f9;}
 
 	header.header-mobile{
-	background:#111;
+	background:#fff;
 	}
 
 	header.smaller.header-scroll:not(.autoshow){
