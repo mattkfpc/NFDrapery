@@ -414,7 +414,7 @@ overflow:visible;
 
 	#mainmenu a,
 	header.transparent.header-light #mainmenu a{
-	color:#fff;
+	color:#000;
 	}
 
 	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#FAB702; }
