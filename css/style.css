@@ -414,7 +414,7 @@ overflow:visible;
 
 	#mainmenu a,
 	header.transparent.header-light #mainmenu a{
-	color:#000;
+	color:#fff;
 	}
 
 	#mainmenu li a:after { float:right; position:relative; font-family:"FontAwesome"; content:"\f111"; font-size:6px; margin-left:20px; margin-top:0px; color:#FAB702; }
@@ -791,7 +791,7 @@ footer {
 	.de-navbar-left.de_light header, .de-navbar-left.de_light{background:#f9f9f9;}
 
 	header.header-mobile{
-	background:#fff;
+	background:#111;
 	}
 
 	header.smaller.header-scroll:not(.autoshow){
