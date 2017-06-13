@@ -4737,7 +4737,7 @@ display:table;
 	}
 
 
-	@media screen and (max-width: 992px) {
+	@media screen and (min-width: 992px) {
 		#mobilelogo{
 			background-image: url("images/nfdraperylogowhite.png");
 		}
