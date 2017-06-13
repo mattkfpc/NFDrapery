@@ -83,9 +83,9 @@ overflow:visible;
 
 @media(max-width: 599px){
 	.mobilepictures {
-		width: 100%;
-		max-width: 60%;
-		height: auto;
+		width: 95%;
+		max-width: 95%;
+		height: 600px;
 	}
 }
 
