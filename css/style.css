@@ -4739,7 +4739,7 @@ display:table;
 
 	@media only screen and (max-width:992px){
 		#mobilelogo{
-		background:url('/images/nfdraperylogowhite.png');
+		background:url('/nfdrapery/images/nfdraperylogowhite.png');
 		}
 	}
 
