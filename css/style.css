@@ -4737,16 +4737,18 @@ display:table;
 	}
 
 
-	@media only screen and (max-width: 992px) {
+	@media screen and (max-width: 992px) {
+		#mobilelogo{
+			background-image: url("images/nfdraperylogowhite.png");
+		}
+	}
+
+
 
 	#menu-btn{
 	display:block;
 	position:relative;
 	float:right;
-	}
-
-	#mobilelogo{
-		background:url("images/nfdraperylogowhite.png");
 	}
 
 	header{
