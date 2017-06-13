@@ -84,6 +84,7 @@ overflow:visible;
 .mobilepictures {
 		width: auto;
 		height: auto;
+		margin: 0 auto;
 	}
 
 /* ================================================== */
