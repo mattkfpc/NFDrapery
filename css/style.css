@@ -3212,7 +3212,9 @@ border: none !important;
 background:#555;
 }
 
-
+.img-responsive {
+  display: inline-block;
+}
 
 .label {
 font-family: "Roboto",Arial, Helvetica, sans-serif;
