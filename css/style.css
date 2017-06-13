@@ -81,11 +81,13 @@ overflow:visible;
 	}
 }
 
-.mobilepictures {
+@media(max-width: 599px){
+	.mobilepictures {
 		width: auto;
 		height: auto;
 		margin: 0 auto;
 	}
+}
 
 /* ================================================== */
 /*  header	*/
@@ -4734,6 +4736,15 @@ display:table;
 	}
 
 	}
+
+
+	@media screen and (min-width: 992px) {
+		#mobilelogo{
+			background-image: url("images/nfdraperylogowhite.png");
+		}
+	}
+
+
 
 	#menu-btn{
 	display:block;
