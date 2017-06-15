@@ -81,12 +81,6 @@ overflow:visible;
 	}
 }
 
-@media(min-width: 599px){
-	#mobilelogo {
-		background-image: image-url("http://i.imgur.com/2HjkFFL.jpg")
-	}
-}
-
 /* ================================================== */
 /*  header	*/
 /* ================================================== */
