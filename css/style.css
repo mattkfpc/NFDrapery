@@ -3580,11 +3580,7 @@ font-weight:bold;
 padding:70px 0 80px 0;
 }
 
-.project-images img{
-	width: auto;
-	height: 90vh;
-	max-height: 1000px;
-}
+
 
 .project-images {
 	text-align: center;
