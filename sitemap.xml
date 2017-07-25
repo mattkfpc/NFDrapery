@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemap scheme="2.0">
+  <title>nfdrapery</title>
+  <version>1.0</version>
+  <link>https://nfdrapery.slickplan.com/opbpcxqkyf</link>
+  <pubDate>Tue, 25 Jul 2017 16:28:19 -0400</pubDate>
+  <logo type="image">77876</logo>
+  <section id="svgmainsection">
+    <options>
+      <template>horizontal</template>
+      <color_scheme>default</color_scheme>
+      <id>svgmainsection</id>
+      <design>flat</design>
+      <text_shadow>false</text_shadow>
+      <section>svgmainsection</section>
+    </options>
+    <cells>
+      <cell id="svgyaxw7i08atglrnm0">
+        <level>foot</level>
+        <text>Social Media Footer</text>
+        <order>1000</order>
+        <urls>
+          <url type="external" label="Facebook NFDrapery">https://www.facebook.com/NewFashionDrapery/</url>
+          <url type="external" label="Twitter NFDrapery">https://twitter.com/nfdrapery</url>
+          <url type="external" label="Pinterest NFDrapery">https://www.pinterest.com/nfdrapery/</url>
+          <url type="external" label="Instagram NFDrapery">https://www.instagram.com/nfdrapery/</url>
+        </urls>
+      </cell>
+      <cell id="svgf6pw71oop335riia">
+        <level>home</level>
+        <text>www.nfdrapery.com</text>
+        <order>1000</order>
+      </cell>
+      <cell id="svgibargjf8vklx02np">
+        <desc>Links back to Home Page</desc>
+        <level>1</level>
+        <text>Home</text>
+        <order>1000</order>
+        <contents>
+          <body>
+            <wysiwyg>
+              <id>kne4bstscnnvqkdh</id>
+            </wysiwyg>
+            <text>
+              <id>gmxb0x7wtl6gbt01</id>
+            </text>
+          </body>
+        </contents>
+      </cell>
+      <cell id="svgpj3kz97s5hy0a38g">
+        <level>1</level>
+        <text>Portfolio</text>
+        <order>2000</order>
+        <urls>
+          <url type="external">http://nfdrapery.com/portfolio.html</url>
+        </urls>
+        <archetype>_gallery</archetype>
+      </cell>
+      <cell id="svgelf6yu6jo78pivyz">
+        <level>1</level>
+        <text>Services</text>
+        <order>3000</order>
+        <urls>
+          <url type="external">http://nfdrapery.com/services.html</url>
+        </urls>
+      </cell>
+      <cell id="svgffoi26whqvopseuj">
+        <level>1</level>
+        <text>About Us</text>
+        <order>4000</order>
+        <urls>
+          <url type="external">http://nfdrapery.com/about.html</url>
+        </urls>
+      </cell>
+      <cell id="svgcirycq8b5xunm8qw">
+        <level>1</level>
+        <text>Contact Us</text>
+        <order>5000</order>
+        <urls>
+          <url type="external">http://nfdrapery.com/contact.html</url>
+        </urls>
+        <archetype>_form</archetype>
+      </cell>
+    </cells>
+  </section>
+</sitemap>
