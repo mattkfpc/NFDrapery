@@ -1,86 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemap scheme="2.0">
-  <title>nfdrapery</title>
-  <version>1.0</version>
-  <link>https://nfdrapery.slickplan.com/opbpcxqkyf</link>
-  <pubDate>Tue, 25 Jul 2017 16:28:19 -0400</pubDate>
-  <logo type="image">77876</logo>
-  <section id="svgmainsection">
-    <options>
-      <template>horizontal</template>
-      <color_scheme>default</color_scheme>
-      <id>svgmainsection</id>
-      <design>flat</design>
-      <text_shadow>false</text_shadow>
-      <section>svgmainsection</section>
-    </options>
-    <cells>
-      <cell id="svgyaxw7i08atglrnm0">
-        <level>foot</level>
-        <text>Social Media Footer</text>
-        <order>1000</order>
-        <urls>
-          <url type="external" label="Facebook NFDrapery">https://www.facebook.com/NewFashionDrapery/</url>
-          <url type="external" label="Twitter NFDrapery">https://twitter.com/nfdrapery</url>
-          <url type="external" label="Pinterest NFDrapery">https://www.pinterest.com/nfdrapery/</url>
-          <url type="external" label="Instagram NFDrapery">https://www.instagram.com/nfdrapery/</url>
-        </urls>
-      </cell>
-      <cell id="svgf6pw71oop335riia">
-        <level>home</level>
-        <text>www.nfdrapery.com</text>
-        <order>1000</order>
-      </cell>
-      <cell id="svgibargjf8vklx02np">
-        <desc>Links back to Home Page</desc>
-        <level>1</level>
-        <text>Home</text>
-        <order>1000</order>
-        <contents>
-          <body>
-            <wysiwyg>
-              <id>kne4bstscnnvqkdh</id>
-            </wysiwyg>
-            <text>
-              <id>gmxb0x7wtl6gbt01</id>
-            </text>
-          </body>
-        </contents>
-      </cell>
-      <cell id="svgpj3kz97s5hy0a38g">
-        <level>1</level>
-        <text>Portfolio</text>
-        <order>2000</order>
-        <urls>
-          <url type="external">http://nfdrapery.com/portfolio.html</url>
-        </urls>
-        <archetype>_gallery</archetype>
-      </cell>
-      <cell id="svgelf6yu6jo78pivyz">
-        <level>1</level>
-        <text>Services</text>
-        <order>3000</order>
-        <urls>
-          <url type="external">http://nfdrapery.com/services.html</url>
-        </urls>
-      </cell>
-      <cell id="svgffoi26whqvopseuj">
-        <level>1</level>
-        <text>About Us</text>
-        <order>4000</order>
-        <urls>
-          <url type="external">http://nfdrapery.com/about.html</url>
-        </urls>
-      </cell>
-      <cell id="svgcirycq8b5xunm8qw">
-        <level>1</level>
-        <text>Contact Us</text>
-        <order>5000</order>
-        <urls>
-          <url type="external">http://nfdrapery.com/contact.html</url>
-        </urls>
-        <archetype>_form</archetype>
-      </cell>
-    </cells>
-  </section>
-</sitemap>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.nfdrapery.com/</loc>
+  <lastmod>2017-07-25T21:04:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/index.html</loc>
+  <lastmod>2017-07-25T21:04:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/projects.html</loc>
+  <lastmod>2017-07-19T18:56:50+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/services.html</loc>
+  <lastmod>2017-07-14T21:03:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/about.html</loc>
+  <lastmod>2017-08-02T20:01:51+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/contact.html</loc>
+  <lastmod>2017-07-14T21:00:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom12.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-upholstery1.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom15.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom16.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-pillow3.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom17.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom18.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom10.html</loc>
+  <lastmod>2017-06-15T18:08:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom11.html</loc>
+  <lastmod>2017-06-15T18:08:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom12.html</loc>
+  <lastmod>2017-06-15T18:08:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom1.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom2.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom3.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom4.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom6.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom18.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom8.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom9.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom10.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom11.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom12.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom13.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom14.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom15.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom16.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-diningroom17.html</loc>
+  <lastmod>2017-06-15T18:08:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes1.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-pillow1.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes2.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-upholstery2.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes3.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes4.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes5.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes6.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes7.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes8.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes9.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes10.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes11.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes12.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes13.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes14.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes15.html</loc>
+  <lastmod>2017-06-15T18:08:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes16.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-drapes17.html</loc>
+  <lastmod>2017-06-15T18:08:31+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-etc1.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-etc2.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-etc3.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-etc4.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom1.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom2.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom3.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom5.html</loc>
+  <lastmod>2017-06-15T18:08:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom6.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom7.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom8.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom9.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom10.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-pillow2.html</loc>
+  <lastmod>2017-06-15T18:08:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-livingroom11.html</loc>
+  <lastmod>2017-06-15T18:08:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom1.html</loc>
+  <lastmod>2017-06-15T18:08:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom2.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom3.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom13.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom4.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom5.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom6.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom7.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom8.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://www.nfdrapery.com/project-bedroom9.html</loc>
+  <lastmod>2017-06-15T18:08:28+00:00</lastmod>
+</url>
+</urlset>

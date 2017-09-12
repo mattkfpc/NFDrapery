@@ -47,12 +47,15 @@
 .mfp-inline-holder .mfp-content {
 max-width: 1000px;
 }
-
+.mb30{
+    overflow:hidden;
+    min-height:220px;
+}
 img.lazy{
 
-    height: 291px;
-    width: 360px;
-
+    
+    /*width: 360px;*/
+    
 }
 
     </style>
@@ -863,7 +866,6 @@ img.lazy{
                         </div>
                     </div>
                     <!-- close gallery item -->
-
                     <!-- gallery item -->
                     <div class="col-md-4 col-sm-6 col-xs-12 item mb30 livingroom">
                         <div class="picframe">
@@ -874,8 +876,9 @@ img.lazy{
                                     </span>
                                 </span>
                             </a>
-
-                            <img class="lazy" data-original="images/thumbnails/drapes13.png" alt="drapes13" />
+                            
+                                    <img class="lazy" data-original="images/thumbnails/drapes13.png" alt="drapes13" />
+                            
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -1412,7 +1415,29 @@ img.lazy{
     <script src="js/jquery.magnific-popup.min.js"></script>
     <script type="text/javascript">
     $(function() {
-        $("img.lazy").lazyload();
+        $("img.lazy").lazyload({
+            
+            // called once all elements was handled
+            onFinishedAll: function() {
+                console.log('finished loading all images');
+            }
+        });
+
+        $( window ).scroll(function() {
+
+         var $optionSet = $('#filters a').parents();
+         var data_filter =  $optionSet.find('.selected').attr('data-filter');
+         if(data_filter == '*'){
+              var $container = jQuery('#gallery');
+              $container.isotope({
+                    itemSelector: '.item',
+                    filter: data_filter
+                });
+         }
+        });
+
+
+       
     });
         
     $('#gallery').find('a').each(function() {
@@ -1425,8 +1450,6 @@ img.lazy{
             $(this).attr('href',imgSrc);
 
     });
-
-    
     </script>
     <script src="js/enquire.min.js"></script>
     <script src="js/designesia.js"></script>
