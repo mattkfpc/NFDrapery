@@ -40,7 +40,7 @@
     <link rel="stylesheet" href="css/rev-settings.css" type="text/css">
     <style type="text/css">
     /* optionally hide arrows until image is displayed */
-.mfp-s-loading .mfp-arrow { 
+.mfp-s-loading .mfp-arrow {
    display: none;
 }
 
@@ -53,9 +53,9 @@ max-width: 1000px;
 }
 img.lazy{
 
-    
+
     /*width: 360px;*/
-    
+
 }
 
     </style>
@@ -110,6 +110,7 @@ img.lazy{
                               </li>
                               <li><a href="about.html">About Us</a></li>
                               <li><a href="contact.html">Contact</a></li>
+                              <li id=store><a href="https://www.hearthunion.com" target="_blank"><strong>Store</strong></a></li>
                           </ul>
                         </nav>
 
@@ -876,9 +877,9 @@ img.lazy{
                                     </span>
                                 </span>
                             </a>
-                            
+
                                     <img class="lazy" data-original="images/thumbnails/drapes13.png" alt="drapes13" />
-                            
+
                         </div>
                     </div>
                     <!-- close gallery item -->
@@ -1368,6 +1369,12 @@ img.lazy{
                             </address>
                         </div>
                     </div>
+
+                    <div class="col-md-4">
+                      <a href="https://www.hearthunion.com" target="_blank">
+                        <img src="images/hearthunionlogo.png" class="logo-small" alt="buttontohearthunion">
+                      </a>
+                    </div>
                 </div>
             </div>
 
@@ -1416,7 +1423,7 @@ img.lazy{
     <script type="text/javascript">
     $(function() {
         $("img.lazy").lazyload({
-            
+
             // called once all elements was handled
             onFinishedAll: function() {
                 console.log('finished loading all images');
@@ -1437,9 +1444,9 @@ img.lazy{
         });
 
 
-       
+
     });
-        
+
     $('#gallery').find('a').each(function() {
 
             $(this).removeClass('simple-ajax-popup-align-top');
